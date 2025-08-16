@@ -25,6 +25,16 @@ body {
     top: 35%;
     text-align: center;
 }
+.cont{
+     color: #fbfcfd;
+    position: absolute;
+    top: 25%;
+    left: 8%;
+    right: 8%;
+    font-style:oblique;
+    transform: translateY(-50%);
+    z-index: 4;
+}
 h1 {
     font-weight: 300;
 } 
